@@ -71,7 +71,6 @@ Feel free to fork, modify, or submit pull requests!
 ---
 
 **Enjoy the jokes!**
-```
 
 ---
 
