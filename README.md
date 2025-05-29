@@ -1,6 +1,6 @@
 # Programming Jokes Fetcher
 
-A simple Python script that fetches and displays 3 programming jokes from the JokeAPI.
+A simple Python script that fetches and displays 3 programming jokes using an API, JokeAPI, and HTTP requests.
 
 ---
 
